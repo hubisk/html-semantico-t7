@@ -1,0 +1,15 @@
+body {
+    color:blue;
+}
+
+/* 
+body {
+    color:blue !important;
+}
+Muda a prioridade do atributo na página, cancela todas as outras da página e necessita uma citação dentro do HTML para canelá-lo
+- NÃO É ACONSELHADO A UTILIZAÇÃO DESTA FUNÇÃO 
+*/
+
+body {
+    color: chocolate;
+}
